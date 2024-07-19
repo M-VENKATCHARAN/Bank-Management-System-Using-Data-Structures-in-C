@@ -1,28 +1,5 @@
 # <center> <u> DSA MINI PROJECT </u>
 
-
-## <center>UE22CS252A</center>
-## <center> 3rd Semester, Academic Year 2023</center>
-## <center> <strong>BANK MANAGEMENT SYSTEM</center>
-
-<br>
-</br>
-
-### Team Members :
-### M C Krishna Kumar - PES2UG22CS281
-### Lohit Kumar Nagarur - PES2UG22CS280
-### MADDINALA VENKAT CHARAN - PES2UG22CS289
-### M SAI NITHIN SRN - PES2UG22CS284
-
-
-<br>
-
-
-
-## <center> SYNOPSIS </center>
-
-<br>
-
 Our program is for a basic banking system that allows users to perform various operations, including creating accounts, depositing money, checking account balances, transferring money between accounts, withdrawing money, and deleting accounts. Data structure used is <mark>Doubly Linked List</mark>
 
 <br>
